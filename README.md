@@ -31,4 +31,3 @@ I'm a full-stack software developer based in Lisbon, Portugal.<br><br>I got into
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=aferrarifirmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aferrarifirmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
