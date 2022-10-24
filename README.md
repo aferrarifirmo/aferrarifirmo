@@ -5,8 +5,7 @@
 I'm a full-stack software developer based in Lisbon, Portugal.<br><br>I got into coding a couple of years ago and there was no going back, I dropped my job to be able to fully dedicate myself to growing and specialising in proggramming.<br><br>🔭 Currently I'm developing the app for Huddler with 5 fellow developers and on the side I keep working in a couple of personal projects. I enjoy both front-end and back-end, but lately I've been more involved with the latter.<br><br>My focus is to keep learning new technologies and approaches and level up my skills.<br><br>🌱 Besides programming I'm interested in exploring the outdoors, reading and cooking.<br><br>💬 I'm always looking to connect so feel free to reach me via [e-mail](mailto:anaferrarifirmo@gmail.com) or on [Linkedin](https://www.linkedin.com/in/ana-ferrari-firmo/)
 
 
-
-## Tech stack:
+## Tech stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -31,5 +30,5 @@ I'm a full-stack software developer based in Lisbon, Portugal.<br><br>I got into
  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=aferrarifirmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aferrarifirmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aferrarifirmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
