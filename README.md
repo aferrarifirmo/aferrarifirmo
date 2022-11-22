@@ -2,7 +2,7 @@
 
 
 
-I'm a full-stack software developer based in Lisbon, Portugal.<br><br>I got into coding a couple of years ago and there was no going back, I dropped my job to be able to fully dedicate myself to growing and specialising in proggramming.<br><br>🔭 Currently I'm developing the app for Huddler with 5 fellow developers and on the side I keep working in a couple of personal projects. I enjoy both front-end and back-end, but lately I've been more involved with the latter.<br><br>My focus is to keep learning new technologies and approaches and level up my skills.<br><br>🌱 Besides programming I'm interested in exploring the outdoors, reading and cooking.<br><br>💬 I'm always looking to connect so feel free to reach me via [e-mail](mailto:anaferrarifirmo@gmail.com) or on [Linkedin](https://www.linkedin.com/in/ana-ferrari-firmo/)
+I'm a full-stack software developer based in Lisbon, Portugal.<br><br>I got into coding a couple of years ago and there was no going back, I dropped my job to be able to fully dedicate myself to growing and specialising in proggramming.<br><br>🔭 Currently I'm developing the app for Huddler with 5 fellow developers and on the side I keep working in a couple of personal projects. I enjoy working with both front-end and back-end.<br><br>My focus is to keep learning new technologies and approaches and level up my skills.<br><br>🌱 Besides programming I'm interested in exploring the outdoors, reading and cooking.<br><br>💬 I'm always looking to connect so feel free to reach me via [e-mail](mailto:anaferrarifirmo@gmail.com) or on [Linkedin](https://www.linkedin.com/in/ana-ferrari-firmo/)
 
 
 ## Tech stack
